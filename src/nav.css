@@ -1,0 +1,21 @@
+.navigation {
+  align-items: center;
+}
+
+.portTitle {
+  font-family: "Roboto Condensed", sans-serif;
+  color: #d9d9d9 !important;
+  font-size: 25px !important;
+}
+
+body .bg-dark {
+  background-color: #4472c4 !important ;
+}
+
+.navB_right {
+  font-family: "Roboto Condensed", sans-serif;
+  position: relative;
+  left: 800px;
+  color: #d9d9d9 !important;
+  font-size: 14px !important;
+}
