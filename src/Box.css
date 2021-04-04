@@ -1,0 +1,42 @@
+.box {
+  background-color: #ffffff;
+  margin: 20px;
+  border-radius: 10px 10px 10px 10px;
+  overflow: hidden;
+  max-height: 35vh;
+  -webkit-box-shawdow: 0px 12px 1px -6px rgba(0, 0, 0, 0.3);
+  box-shadow: 12px 12px 1px -6px rgba(0, 0, 0, 0.3);
+  border-color: #44546a !important;
+  margin-left: 20%;
+  width: 20rem;
+}
+
+.grid {
+  min-height: 100%;
+  display: flex;
+  flex-wrap: wrap;
+  flex-direction: row;
+}
+
+.grid > div {
+  flex-basis: calc(33.33333% - 40px);
+}
+
+.card_title {
+  font-size: 25px;
+  text-align: left;
+  height: auto;
+  background-color: #44546a !important;
+  font-family: "Roboto Condensed", sans-serif;
+  color: #d9d9d9 !important;
+  padding: 4px !important;
+}
+
+.card_info {
+  justify-content: space-between !important;
+  display: flex !important;
+  font-size: 15px;
+  font-family: "Roboto Condensed", sans-serif;
+  color: black;
+  font-weight: bold;
+}

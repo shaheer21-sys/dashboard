@@ -1,48 +1,54 @@
-{
-    "PORTFOLIO 1": {
-    "1 YEAR": "8",
-    "3 YEAR": "10",
-    "5 YEAR": "12"
-    },
+ {
 
-    "PORTFOLIO 2" : {
+    
+
+     "PORTFOLIO 1": {
         "1 YEAR": "8",
         "3 YEAR": "10",
         "5 YEAR": "12"
-        },
-    "PORTFOLIO 3" : {
-            "1 YEAR": "8",
-            "3 YEAR": "10",
-            "5 YEAR": "12"
-            },
-    "PORTFOLIO 4" : {
-                "1 YEAR": "8",
-                "3 YEAR": "10",
-                "5 YEAR": "12"
-                },
-        "PORTFOLIO 5" : {
-         "1 YEAR": "8",
-         "3 YEAR": "10",
-         "5 YEAR": "12"
-         },
-         "PORTFOLIO 6" : {
-            "1 YEAR": "8",
-            "3 YEAR": "10",
-            "5 YEAR": "12"
-            },
-            "PORTFOLIO 7" : {
-                "1 YEAR": "8",
-                "3 YEAR": "10",
-                "5 YEAR": "12"
-                },
-                "PORTFOLIO 8" : {
-                    "1 YEAR": "8",
-                    "3 YEAR": "10",
-                    "5 YEAR": "12"
-                    },
-                    "PORTFOLIO 9" : {
-                        "1 YEAR": "8",
-                        "3 YEAR": "10",
-                        "5 YEAR": "12"
-                        }
+    },
+
+     "PORTFOLIO 2": {
+        "1 YEAR": "8",
+        "3 YEAR": "10",
+        "5 YEAR": "12"
+    },
+    "PORTFOLIO 3": {
+        "1 YEAR": "8",
+        "3 YEAR": "10",
+        "5 YEAR": "12"
+    },
+    "PORTFOLIO 4": {
+        "1 YEAR": "8",
+        "3 YEAR": "10",
+        "5 YEAR": "12"
+    },
+    "PORTFOLIO 5": {
+        "1 YEAR": "8",
+        "3 YEAR": "10",
+        "5 YEAR": "12"
+    },
+    "PORTFOLIO 6": {
+        "1 YEAR": "8",
+        "3 YEAR": "10",
+        "5 YEAR": "12"
+    },
+    "PORTFOLIO 7": {
+        "1 YEAR": "8",
+        "3 YEAR": "10",
+        "5 YEAR": "12"
+    },
+    "PORTFOLIO 8": {
+        "1 YEAR": "8",
+        "3 YEAR": "10",
+        "5 YEAR": "12"
+    },
+    "PORTFOLIO 9": {
+        "1 YEAR": "8",
+        "3 YEAR": "10",
+        "5 YEAR": "12"
+    }
+
+    
 }
+ 

@@ -8,7 +8,7 @@ import Logo from './images/chipster.png';
 
 function nav(){
     return(
-        <div className="navigation">
+        <div >
         <Navbar collapseOnSelect className="navB" expand="lg" bg="dark" variant="dark" >
 
   <Navbar.Brand href="#home">
@@ -19,12 +19,12 @@ function nav(){
   <Navbar.Toggle aria-controls="responsive-navbar-nav" />
 
   <Navbar.Collapse id="responsive-navbar-nav">
-    <Nav>
+    <Nav className="navB_right">
      
-      <Nav.Link  href="#memes"> MY PORTFOLIOS | </Nav.Link>
+      <Nav.Link  href="#memes"  >MY PORTFOLIOS  |</Nav.Link>
       
-      <Nav.Link href="#deets">CREATE PORTFOLIO  |</Nav.Link>
-      <Nav.Link href="#deets2">test_user <FontAwesomeIcon icon={faUserCircle} /></Nav.Link>
+      <Nav.Link href="#deets"  >CREATE PORTFOLIO  |</Nav.Link>
+      <Nav.Link href="#deets2"  >test_user <FontAwesomeIcon icon={faUserCircle} /></Nav.Link>
 
       <NavDropdown  id="collasible-nav-dropdown">
         <NavDropdown.Item href="#action/3.1">1.</NavDropdown.Item>

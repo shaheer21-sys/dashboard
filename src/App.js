@@ -1,14 +1,15 @@
 import React from "react";
 import './App.css';
 import Nav from './nav';
-import PortList from './portList';
+import { CardsComp as Card } from './CardsComp';
+//import PortList from './portList';
 
 
 function App() {
   return (
     <div className="App">
     <Nav/>
-    <PortList/>
+   <Card/>
     </div>
   );
 }

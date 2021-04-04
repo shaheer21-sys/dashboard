@@ -14,8 +14,8 @@ body .bg-dark {
 
 .navB_right {
   font-family: "Roboto Condensed", sans-serif;
-  position: relative;
-  left: 800px;
+  word-spacing: 5px;
   color: #d9d9d9 !important;
   font-size: 14px !important;
+  display: flex !important;
 }
