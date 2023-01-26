@@ -13,5 +13,5 @@ function App() {
 	);
 }
 
-// console.log("not kohenoor")
+// console.log("not ")
 export default App;
